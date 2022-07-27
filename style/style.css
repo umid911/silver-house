@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.header {
+    width: 1110px;
+    margin: 50px auto 30px;
+}
+.nav-logo {
+    display: flex;
+    justify-content: center;
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    margin: 55px;
+    justify-content: center;
+}
+.nav-link {
+    color: hsla(0, 1%, 55%, 1);
+    margin: 14px;
+    
+}
+/* main */
+.main{
+    width: 1110px;
+    height: 500px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.title{
+    
+
+    width: 730px;
+    height: 500px;
+    background: #F0F0F0;
+    
+    
+    
+}
+.main-title{
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #4581B7;
+    padding: 40px 40px 0 40px;
+}
+.title-info{
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #808080;
+    padding: 40px;
+}
+.about{
+    width: 350px;
+    height: 500px;
+    background: #F0F0F0;
+    
+    
+
+}
+.about-info{
+    margin: 57px 160px 25px 40px;
+    width: 150px;
+    height: 23px;
+    color: #4581B7;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    
+}
+.info{
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #808080; 
+}
+.about-page{
+    margin: 0 24px 0px 40px;
+    color: #808080;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+}
+.page2{
+    color: #808080;
+    display: block;
+    margin: 39px 24px 0 40px;
+}
+.page3{
+    color: #808080;
+    margin: 67px 24px 0 40px;
+    display: block;
+}
+.footer{
+    height: 150px;
+    width: 1110px;
+    background: #F0F0F0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img2{
+    display: block;
+    margin: 0 0 0 40px;
+}
+.foter-box{
+    margin: 0 40px 0 0 ;
+}
+.foter-title{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #808080;
+}
+.foter-link{
+    color: #808080;
+    display: block;
+    margin: 15px 0 0 0 ;
+}
